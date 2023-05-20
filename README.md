@@ -1,4 +1,3 @@
 - [x] Phantom
-- [ ] Torus
 - [x] Slope
 - [x] Glow
