@@ -1,4 +1,4 @@
-- [ ] Phantom
+- [x] Phantom
 - [ ] Torus
-- [ ] Slope
-- [ ] Glow
+- [x] Slope
+- [x] Glow
